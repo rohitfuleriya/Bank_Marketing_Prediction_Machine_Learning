@@ -1,5 +1,8 @@
-Board Infinity
-ML Project - Bank Marketing Prediction
+             
+                   ML Project - Bank Marketing Prediction
+
+
+
 Tasks to perform
 Read in the file and get basic information about the data, including numerical summaries.
 - Describe the pdays column, make note of the mean, median and minimum values. Anything 
